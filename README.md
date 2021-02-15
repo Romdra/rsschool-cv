@@ -1,2 +1,2 @@
 # rsschool-cv
-https://romdra.github.io/rsschool-cv/cv
+https://romdra.io/rsschool-cv/

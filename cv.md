@@ -1,7 +1,7 @@
 # Roman Derin
 ## Contact Info
 Discord: @Romdra#3878
-<br>[Mail](roman_dra@mail.ru)
+Mail: roman_dra@mail.ru
 <br>[VK](https://vk.com/drableat)
 ## About me
 23 yo, from Orsk (Russia, Orenburgskaya obl. ), 

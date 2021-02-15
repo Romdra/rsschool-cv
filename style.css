@@ -1,0 +1,47 @@
+* {
+   margin: 0;
+   padding: 0;
+   outline: none;
+}
+
+header {
+   padding-right: 390px;
+}
+
+header img {
+   padding-bottom: 15px;
+}
+
+header h1 {
+   padding-bottom: 15px;
+}
+
+.container {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   align-items: center;
+   margin-top: 20px;
+}
+
+.content {
+   padding-left: 30px;
+   font-size: 20px;
+   min-height: calc(100vh - 470px)
+}
+
+footer {
+   display: flex;
+   align-items: center;
+   border-top: 1px solid gray;
+   background-color: lavender;
+   height: 70px;
+}
+
+footer p {
+   padding-left: 15px;
+}
+
+nav a {
+   padding-left: 40px;
+}
